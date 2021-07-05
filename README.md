@@ -1,6 +1,10 @@
 # Dave's Github
+<html>
 <head>
-	<title>Dave's GitHub index</title>
+	<title>Dave's GitHub Contents</title>
 </head>
-Keep your eyes peeled<br>
+<body>
+	Keep your eyes peeled<br>
 <a href="https://davidoldo.github.io/index/site/"> Brinda </a>
+</body>
+</html>
