@@ -1,2 +1,2 @@
-# Coursera-test
-Coursera test repository
+# Dave's Github
+Keep your eyes peeled
